@@ -1,0 +1,61 @@
+# Effect heterogeneity {-}
+
+## Kent et al, BMJ, 2018 {-}
+
+[Link](https://www.bmj.com/content/363/bmj.k4245)
+
+Austin Bradford Hill: RCTs determine better treatment on average but do not
+answer the the practicing doctor's question: "What is the most likely outcome
+under when this particular drug is given to the patient"?
+
+Resut of a positive RCT is only evidence that some of the enrollees benefited
+from the intervention.
+
+Reichenbah suggested calibration to the narrowest reference class for which
+reliable statistics can be compiled. This quickly loses power (small sample for
+thousands of subgroups).
+
+We need principled way to prioritize characteristics. Model is required for
+that.
+
+> **Link** to literature review.
+
+## Iwashyna et al, American Journal of Respiratory and Critical Care Medicine. 2015 {-}
+
+[Link](https://www.atsjournals.org/doi/10.1164/rccm.201411-2125CP?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
+
+Guyat et al: if patient meets all inclusion criteria and does not violate any of
+the exclusion criteria then the overall resutls of RCT are applicable.
+
+Surgery was better on average, however benfits were for the higher risk
+patients. Lower risk patients were harmed (see
+[RCT](https://www.thelancet.com/action/showPdf?pii=S0140-6736%2897%2909292-1)
+and [Rothwell, et al](https://pubmed.ncbi.nlm.nih.gov/10382694/))
+
+## Ioannidis et al, JCE, 1997 {-}
+
+[Link](https://www.sciencedirect.com/science/article/pii/S0895435697001492)
+
+Heterogeneous population -> Heterogeneous risk -> small subgroups contribute the
+majority of the observed outcomes.
+
+> **Suggestion**: Include graph demonstrating that. Maybe use GUSTO-I?
+
+## Dahabreh et al, IJE, 2016 {-}
+
+[Link](https://academic.oup.com/ije/article/45/6/2184/2670316?login=true)
+
+Individual-level HTE is unobservable. Each patient belongs to one of "immune",
+"doomed", "harmed" or "saved". Unkowable (fundamental problem of causal
+inference).
+
+HTE is scale-dependent
+
+> **Suggestion**: Add plot with constant RR and variable ARR (include
+> treatment-related harms).
+
+HTE is usually assessed on the relative scale (interaction) but absolute scale
+(NNT) is the relevant one for decision-making.
+
+When risk heterogeneity present and non-null treatment effect -> HTE on some
+scale. Risk magnification (Harell).
