@@ -11,8 +11,7 @@ csl: chicago-fullnote-bibliography.csl
 
 # Welcome {-}
 
-This is the `Health Data Science` wiki page.
-
+This is the thesis plan...
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
